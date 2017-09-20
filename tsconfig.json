@@ -9,7 +9,6 @@
       "emitDecoratorMetadata": true,
       "experimentalDecorators": true,
       "target": "es2015",
-      "baseUrl": "./",
       "paths": {
           "toxic/somerealllllllllylongpathhhhhh/sub/sub/sub/sub/module": ["./src/my-module"]
       },
