@@ -1,11 +1,6 @@
-import { name } from 'toxic/somerealllllllllylongpathhhhhh/sub/sub/sub/sub/module';
-import { trimEnd } from 'lodash-es';
-import { uniq } from 'ramda';
+//import { name } from 'submodule'
+//name;
 
-
-trimEnd();
-let data = [1, 2, 1, 2, 3];
-this.uniqueData = uniq(data);
-
-console.log(name);
-//# sourceMappingURL=main.js.map
+//only works in v4
+import { UIRouterModule} from '@uirouter/angular';
+UIRouterModule
